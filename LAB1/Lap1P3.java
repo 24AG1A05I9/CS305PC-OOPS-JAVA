@@ -8,4 +8,5 @@ class Lab1P3{
 		var c = a/b;
 		System.out.println(c);
 	}
+
 }
