@@ -33,24 +33,13 @@ class MyCalculator {
         throw new Exception("n or p should not be negative.");
         if((n==0 && p==0 ))
         throw new Exception("n and p should not be zero.");
-        
-class MyCalculator {
-   long power(int n ,i
-        
-        
-        
-        for(int i=0 ;i<p;i++){
-            result = result * n;
-        }
-    
-
-            
-        
-        return result;
-    }
+   }
+}
 }
 
+
 public class Solution {
+        return result
     public static final MyCalculator my_calculator = new MyCalculator();
     public static final Scanner in = new Scanner(System.in);
     
